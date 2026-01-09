@@ -19,7 +19,8 @@ PassManager is a secure and minimal password manager built using the MERN stack 
 ---
 
 ### 🔓 UI of PassManager
-![Home](./PassManager-ss.jpg)
+<img width="1909" height="810" alt="image" src="https://github.com/user-attachments/assets/3d531bd5-bfce-4050-9699-b1c60b452914" />
+
 
 ---
 
